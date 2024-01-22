@@ -1,6 +1,7 @@
 
 # Frequently Asked Questions
 - [How to install FAQtory?](#how-to-install-faqtory)
+- [Ηоԝ ḋо ĜіtНսḃ ḣеаḋеr ΙᎠѕ ḣаոḋⅼе ոοո-АЅĈІǏ сḣаrасtеrѕ?](#ηоԝ-ḋо-ĝіtнսḃ-ḣеаḋеr-ιꭰѕ-ḣаոḋⅼе-ոοո-аѕĉіǐ-сḣаrасtеrѕ)
 
 <a name="how-to-install-faqtory"></a>
 ## How to install FAQtory?
@@ -10,6 +11,11 @@ Faqtory is best installed via [pipx](https://github.com/pypa/pipx) to avoid any 
 ```bash
 pipx install faqtory
 ```
+
+<a name="ηоԝ-ḋо-ĝіtнսḃ-ḣеаḋеr-ιꭰѕ-ḣаոḋⅼе-ոοո-аѕĉіǐ-сḣаrасtеrѕ"></a>
+## Ηоԝ ḋо ĜіtНսḃ ḣеаḋеr ΙᎠѕ ḣаոḋⅼе ոοո-АЅĈІǏ сḣаrасtеrѕ?
+
+How do GitHub header IDs handle non-ASCII characters?
 
 <hr>
 
